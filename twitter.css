@@ -1,0 +1,54 @@
+.container-fluid1{
+background-color:#808080;
+}
+.navbar-brand{
+color:white;
+}
+.startPage{
+  width:700px;
+  height:500px;
+}
+.firstB{
+border-radius:10px;
+background-color:#575757;
+color:white;
+}
+.pole {
+    width: 400px;
+    height:200px;
+    padding: 0;
+    text-align:left;
+}
+.twMiddle{
+background-color:#EBF4FF;
+}
+input,
+input::-webkit-input-placeholder {
+    font-size:20px;
+    line-height: 5;
+}
+.newsLenta{
+    width:200px;
+    height:100px;
+
+}
+.table{
+    padding-left: 15px;
+    width:100%;
+    text-align:center;
+}
+
+.borders{
+    border: 0px solid black;
+    background-color:#EBF4FF;
+}
+.bigger{
+    font-size:18px;
+}
+.middle{
+    font-size:15px;
+}
+.small{
+    font-size:10px
+}
+
